@@ -32,7 +32,7 @@ public class Main {
         // Fourth task
         int[] array = { 7, 9, 5, 8, 3, 4, 6 };
 
-        MergeSort.mergeSort(array, 0, 5);
+        MergeSort.mergeSort(array, 0, 6);
         printArray(array);
 
         System.out.println(BinarySearch.search(array, 9));
